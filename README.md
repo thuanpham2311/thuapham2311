@@ -42,5 +42,9 @@
   <a target="_blank" rel="noopener noreferrer" href="http://linkedin.com/in/thuanpham2311">
     <img src="./img/icons/linkedin.svg" width="26px"/>
   </a>
+  &emsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://paypal.me/tp2311">
+    <img src="./img/icons/paypal.svg" width="26px"/>
+  </a>
 <br>
 </div>
