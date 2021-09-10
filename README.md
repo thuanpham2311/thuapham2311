@@ -1,50 +1,15 @@
-<div align="center">
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center" style="background-color: #F0EDEC;color: #2C363C;">
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 
 <br>
 
-<p> I'm an IT <strong>student</strong> with a passion for building <strong>highly usable web applications</strong>.</p>
+<p>I'm a homebody + lazy + crazy person. <a style="color: #2F7C85" href="https://bio.link/thuanpham2311">See all my link</a></p>
 
 <img src="./img/ongDev.webp">
 
 <br>
-
   <a href="https://github.com/thuanpham2311" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=thuanpham2311&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6" alt="Thuan's Stats" >
-  </a>
-
-<br>
-
-  <a target="_blank" rel="noopener noreferrer" href= "https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw">
-    <img src="./img/icons/youtube.svg" width="26px"/>
-  </a>
-  &emsp;
-  <a target="_blank" rel="noopener noreferrer" href= "https://photos.app.goo.gl/DHmPLryYPK4fp2xDA">
-    <img src="./img/icons/photos.svg" width="26px"/>
-  </a>
-  &emsp;
-  <a target="_blank" rel="noopener noreferrer" href="http://thuanpham2311.github.io/">
-    <img src="./img/icons/blog.svg" width="26px"/>
-  </a>
-  &emsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/playlist?list=PLiK7Zu7FR9jVJyURcW5nmXveGzJ1DAvf5">
-    <img src="./img/icons/music.svg" width="26px"/>
-  </a>
-  &emsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://m.me/thuanpham2311">
-    <img src="./img/icons/chat.svg" width="26px"/>
-  </a>
-  &emsp;
-  <a target="_blank" rel="noopener noreferrer" href="mailto:phamtanthuan2311@gmail.com">
-    <img src="./img/icons/gmail.svg" width="26px"/>
-  </a>
-  &emsp;
-  <a target="_blank" rel="noopener noreferrer" href="http://linkedin.com/in/thuanpham2311">
-    <img src="./img/icons/linkedin.svg" width="26px"/>
-  </a>
-  &emsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://paypal.me/tp2311">
-    <img src="./img/icons/paypal.svg" width="26px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=thuanpham2311&icon_color=2C363C&text_color=2C363C&bg_color=F0EDEC&line_height=30&hide_title=true&title_color=D2DFE7" alt="Thuan's Stats" >
   </a>
 <br>
-</div>
+<div>
